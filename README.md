@@ -10,4 +10,5 @@ instructions:
 4. Check your roblox client
 5. done
 
-if you get prompted by smartscreen saying "windows protected your pc", click learn more > run anyway.
+if you get prompted by smartscreen saying "windows protected your pc", click learn more > run anyway. if it was actually harmful
+it would be dumb to make this open-source. check the code for yourself and see.
