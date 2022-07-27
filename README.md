@@ -9,3 +9,4 @@ instructions:
 3. Wait for it to run
 4. Check your roblox client
 5. done
+if you get prompted by smartscreen saying "windows protected your pc", click learn more > run anyway.
