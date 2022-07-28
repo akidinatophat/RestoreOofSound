@@ -1,10 +1,10 @@
 # RestoreOofSound
-just a batch script to change the roblox oof sound for the 32-bit clien
+just a batch script to change the roblox oof sound for the 32-bit client
 
 if you wanna do it manually(you need an old roblox version for this): https://youtu.be/tc8i9mU9aKk
 
 instructions:
-1. Download the v1 release .bat file.
+1. Download the v2(or v1, but when roblox updates, v1 will stop working) release .bat file.
 2. Click
 3. Wait for it to run
 4. Check your roblox client
