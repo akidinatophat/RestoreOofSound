@@ -1,3 +1,5 @@
+ATTENTION: this script will not work until my website comes back online. sorry about that
+
 # RestoreOofSound
 just a batch script to change the roblox oof sound for the 32-bit client
 
